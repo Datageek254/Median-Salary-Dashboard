@@ -93,6 +93,8 @@ For all the dashboard cards, each value is displayed based on the Job title, Cou
 
 5. The final step was polishing up the chart/card formatting and protecting the sheet. To protect the sheet, I select the cells that contained the drop down lists, right clicked and clicked on 'format cells', unchecked 'locked' box. Went to the review tab and selected 'Protect sheet', then 'select unlocked cells', input the password then 'okay'
 
+[Median Salary Dashboard](https://github.com/Datageek254/Median-Salary-Dashboard/blob/main/Median%20Salary%20Dashboard.xlsx)
+
 
 
 
